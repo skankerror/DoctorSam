@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <QObject>
+#include "enttecdmxusb.h"
 
 class MainWindow : public QMainWindow
 {
